@@ -4,9 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">ezProfile</h1>
-<p align="center">A modern, responsive and customizable portfolio builder for Developers!</p>
-<p align="center">https://arifszn.github.io/ezprofile</p>
+<h1 align="center">Ghulam Rasool</h1>
+<p align="center">www.gghulamrasuldev.com</p>
 
 ## 📄 License
 <p>This project completely belongs to : https://github.com/arifszn/</p>
