@@ -9,5 +9,6 @@
 <p align="center">https://arifszn.github.io/ezprofile</p>
 
 ## 📄 License
-This project completely belongs to : https://github.com/arifszn/
+<p>This project completely belongs to : https://github.com/arifszn/</p>
+
 **ezProfile** is licensed under the [Apache-2.0 License](https://github.com/arifszn/ezprofile/blob/main/LICENSE).
