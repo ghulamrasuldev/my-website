@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Ghulam Rasool</h1>
-<p align="center">www.gghulamrasuldev.com</p>
+<p align="center">www.ghulamrasuldev.com</p>
 
 ## 📄 License
 <p>This project completely belongs to : https://github.com/arifszn/</p>
