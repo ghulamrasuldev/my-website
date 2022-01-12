@@ -6,7 +6,7 @@ module.exports = {
         limit: 8, // How many projects to display.
         exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
-            projects: ['laravel-ecommerce','mad_final'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
+            projects: ['laravel-ecommerce','mad_final','my-website'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
         }
     },
     social: {
