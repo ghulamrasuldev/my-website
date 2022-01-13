@@ -2,7 +2,7 @@
     "name": "my-website",
     "version": "1.1.1",
     "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "/App.js",
+    "homepage": ".",
     "private": false,
     "license": "Apache-2.0",
     "author": "arifszn",
